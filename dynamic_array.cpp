@@ -104,6 +104,7 @@ int main() {
 }
 
 /*
+OUTPUT:
 Elements: 1 2 3 4 7 1 2 4 1 99 
 Initial capacity: 16
 Size: 9, Capacity: 16
